@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Taurenkey & Puni.sh",
   "Name": "Artisan",
   "Punchline": "A 'simple' crafting plugin.",
@@ -12,4 +12,4 @@
   "Changelog": "- Please visit the Discord for a full list of updates.",
   "DalamudApiLevel": 8,
   "DownloadLinkTesting" : "https://love.puni.sh/plugins/Artisan/Testing/latest.zip"
-}
+}]
